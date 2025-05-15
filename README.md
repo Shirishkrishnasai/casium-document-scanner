@@ -34,7 +34,10 @@ Create a `.env` file in the `backend` directory:
 OPENAI_API_KEY=sk-...
 ```
 
-**Do not commit your API key to GitHub.** It's personal and billable.
+> **Important:**  
+> To use AI capabilities like classification and field extraction, you must have an **OpenAI API key**.
+> - Get it from: [https://platform.openai.com/account/api-keys](https://platform.openai.com/account/api-keys)  
+> - Click **"Create new secret key"**, then copy and paste it above.
 
 ### 4. Run the Backend
 
