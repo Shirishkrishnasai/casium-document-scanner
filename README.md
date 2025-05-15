@@ -151,13 +151,18 @@ casium-document-scanner/
 ```
 fastapi
 uvicorn
-python-dotenv
-aiofiles
-Pillow
-openai
-pdf2image
+python-multipart
+pydantic
+pillow
 sqlalchemy
+aiosqlite
+langchain
+openai
+python-dotenv
+pdf2image
+aiofiles
 asyncpg
+greenlet
 ```
 
 Install via:
