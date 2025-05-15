@@ -1,0 +1,43 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+env/
+.venv/
+
+# FastAPI cache
+*.db
+*.sqlite3
+uploads/
+__pypackages__/
+
+# VSCode and IDE settings
+.vscode/
+.idea/
+
+# Node.js / React
+node_modules/
+dist/
+build/
+*.log
+.env.local
+.env.development
+.env.production
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Others
+*.bak
+*.tmp
+*.swp
+.coverage
+**/.coverage
+coverage/
+frontend/coverage/.env
+node_modules/
+__pycache__/

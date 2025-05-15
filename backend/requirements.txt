@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+pillow
+sqlalchemy
+aiosqlite
+langchain
+openai
+python-dotenv
+pdf2image
+aiofiles
+asyncpg
+greenlet
