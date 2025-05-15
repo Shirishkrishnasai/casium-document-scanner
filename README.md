@@ -225,3 +225,8 @@ Run tests:
 cd frontend
 npm test
 ```
+
+## Demo Video
+
+You can view a sample testing video of this project here:  
+🎥 [Casium Document Scanner - Demo Video](https://drive.google.com/file/d/1TdER9SZb6dqpV0AC5E8mpqlNKmNv0w2o/view?usp=drivesdk)
